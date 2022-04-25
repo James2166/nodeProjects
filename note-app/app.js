@@ -1,3 +1,6 @@
+//Before running this code, make sure to run npm install
+//to install the required node modules file
+
 const chalk = require('chalk')
 const yargs = require('yargs')
 const notes = require('./notes.js')
