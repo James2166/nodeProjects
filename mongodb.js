@@ -29,3 +29,6 @@ MongoClient.connect(connectionUrl, { useNewUrlParser: true }, (error, client) =>
     })
 
 })
+
+// cmd to start 
+// /Users/shock/mongodb/bin/mongod.exe --dbpath=/Users/shock/mongodb-data
